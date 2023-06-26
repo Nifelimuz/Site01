@@ -1,0 +1,15 @@
+.craftum-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 5552px;
+  object-fit: cover;
+}
+.craftum-1-parent {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 5420px;
+  overflow: hidden;
+}
